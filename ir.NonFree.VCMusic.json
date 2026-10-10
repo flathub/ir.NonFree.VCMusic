@@ -93,8 +93,8 @@
         {
           "type": "git",
           "url": "https://github.com/VC365/VCMusic.git",
-          "tag": "v0.1.2",
-          "commit": "1a460ddec52d9ae959c4e1c828fc0c6d04f0bda7"
+          "tag": "v0.1.2-1",
+          "commit": "be67a2ae712bd0764a572ab22b2466cb3b58b2a9"
         },
         {
           "type": "archive",
