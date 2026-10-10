@@ -11,7 +11,7 @@
     "--device=dri",
     "--env=LADSPA_PATH=/app/lib/ladspa",
     "--socket=pulseaudio",
-    "--filesystem=xdg-music"
+    "--filesystem=xdg-music:ro"
   ],
   "cleanup": [
     "/include",
